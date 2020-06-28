@@ -28,5 +28,5 @@ The above example will execute cmd at 14.30 on 25 july 2020 - task author Admin
 - begin month (1-12)
 - begin day 
 - begin hour
-- begin seconds
+- begin minute
 
