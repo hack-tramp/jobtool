@@ -7,7 +7,6 @@ https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-tsch/8a585672-81
 https://web.archive.org/web/20190629040200/https://forensicswiki.org/wiki/Windows_Job_File_Format
 <br>
 <br>
-<b>Please note all parameters must be provided</b><br>
 Usage example:<br><br>
 `
 jobtool sometask.job 60 10 32 10 C:\WINDOWS\system32\cmd.exe C:\WINDOWS\system32 Administrator 2020 7 25 14 30
