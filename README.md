@@ -14,7 +14,7 @@ jobtool sometask.job 60 10 32 10 C:\WINDOWS\system32\cmd.exe C:\WINDOWS\system32
 <br>
 <br>
 The above example will execute cmd at 14.30 on 25 july 2020 - task author Admin
-<br>
+<br><br>
 <b>Params</b> (more info in official ms docs):
 - filename for JOB file
 - idle deadline (maximum time in minutes to wait<br> for the machine to become idle for Idle Wait minutes.)<br>
